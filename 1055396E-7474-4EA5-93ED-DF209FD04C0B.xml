@@ -1,0 +1,185 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="1055396E-7474-4EA5-93ED-DF209FD04C0B" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="13">
+    <control controlID="6704C4AE-2D31-4542-AF47-AC0EE471FB62" controlTypeID="Image" x="0" y="0" w="375" h="669" zOrder="0">
+      <URL>1F13E35966C60726EEE863DB4AB96058.jpg</URL>
+    </control>
+    <control controlID="FDE93756-02BB-43BB-89A7-4D2C83B32606" controlTypeID="TextArea" x="191" y="268" w="240" h="201" zOrder="1">
+      <font family="%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7" displayName="%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E8%B4%BE%0D%0A%E8%93%89</text>
+      <textSize>72</textSize>
+      <textAlign>HaCenter</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C2B1CEA5-EF39-4556-8F56-E8032C00C401" controlTypeID="Image" x="62" y="242" w="303" h="427" zOrder="2">
+      <URL>F1F279806B9E71E4A676657A736DC67B.png</URL>
+    </control>
+    <control controlID="2368E5AA-2CC7-4AF1-9860-DF22B2E58F77" controlTypeID="Button" x="18" y="128" w="120" h="48" zOrder="3">
+      <color>4289880123</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="E5BC2CA9-480E-466C-B7D8-4B92D18E7AF1" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%BE%E7%8F%8D">
+          <area shape="0" alt="" ID="{D9A227D2-96E7-4363-9A4D-8C3F6AC161BB}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E7%88%B6</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="F4433392-C259-450D-8578-57E238FFF750" controlTypeID="Button" x="18" y="186" w="120" h="48" zOrder="4">
+      <color>4289880123</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="1055396E-7474-4EA5-93ED-DF209FD04C0B" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%BE%E8%93%89">
+          <area shape="0" alt="" ID="{D73F803D-C2F6-43A6-B700-6D4943B5A0CB}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E7%BB%A7%E6%AF%8D</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="C22439AC-C535-40F0-9908-2E969AD4E4CE" controlTypeID="Button" x="18" y="244" w="120" h="48" zOrder="5">
+      <color>4289880123</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="15CE3847-308F-471C-8D60-FE0BA55643C6" linkType="ltPageLink" isApplyIncludePage="False" title="%E7%A7%A6%E5%8F%AF%E5%8D%BF">
+          <area shape="0" alt="" ID="{EEF081E2-A12D-44BD-BE99-E01851770EBD}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E5%A6%BB</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="8CCC7EB6-DB1E-4BBB-832F-F1398FCFBCE9" controlTypeID="Button" x="18" y="302" w="120" h="48" zOrder="6">
+      <color>4289880123</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="9C632A7F-AC1C-4115-A10C-FA26449FC21A" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%BE%E8%94%B7">
+          <area shape="0" alt="" ID="{CDA8C733-5D69-4FF1-AA09-871863A1E05A}" coords="(0,0,120,48)"/>
+        </link>
+      </links>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E5%A0%82%E5%BC%9F</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="71B2528B-E75D-4226-8C2B-7D3C4E24D2E9" controlTypeID="Top ActionBar" x="0" y="0" w="375" h="35" zOrder="7">
+      <color>4290091377</color>
+      <opacity>0.699999988079071</opacity>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A664BD04-CC58-469F-A0B5-6C37A72C394C" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+          <area shape="0" alt="" ID="{0D497F1F-A182-4D9E-BEA7-3C1498DD9E34}" coords="(4.5,0.5,39.5,35.5)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%8F%9C%E5%8D%95">
+          <area shape="0" alt="" ID="{119B12B8-5D0D-4329-B10D-ECF9BF3F14E3}" coords="(330.5,0.5,365.5,35.5)"/>
+        </link>
+      </links>
+      <interactiveData>
+        <entry title="%E8%BF%94%E5%9B%9E">
+          <area shape="0" alt="" ID="{0549C0A6-1864-4BF1-91D4-628486AE6839}" coords="(4.5,0.5,39.5,35.5)"/>
+          <events title=""/>
+        </entry>
+        <entry title="%E8%8F%9C%E5%8D%95">
+          <area shape="0" alt="" ID="{60E2A523-BD51-4AC3-BA6B-A010641C8271}" coords="(330.5,0.5,365.5,35.5)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="6540B247-8548-461B-92BB-0FAA97328CB7" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Popup State Change" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="0" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="Value" value="2" varType="3" description=""/>
+                    <param name="AniType" value="0" varType="3" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <iconColor>4281475860</iconColor>
+    </control>
+    <control controlID="6540B247-8548-461B-92BB-0FAA97328CB7" controlTypeID="PopupMenu" x="414" y="111" w="46" h="46" zOrder="8">
+      <caption>%E8%BF%94%E5%9B%9E%E8%8F%9C%E5%8D%95</caption>
+      <groupChildrenDescriptors>
+        <control controlID="02D28921-30C7-4610-BCC4-36072371037C" controlTypeID="Panel" x="0" y="0" w="375" h="667" zOrder="0">
+          <locked>True</locked>
+          <color>1879048192</color>
+          <borderVisible>False</borderVisible>
+          <canMove>False</canMove>
+          <alias>background</alias>
+          <groupChildrenDescriptors>
+            <control controlID="2DF6DE80-DD53-4FF1-B0C4-8F736895FC22" controlTypeID="Border" x="0" y="0" w="375" h="667" zOrder="0">
+              <borderVisible>False</borderVisible>
+              <alias>borderLayer</alias>
+            </control>
+          </groupChildrenDescriptors>
+          <thinkness>1</thinkness>
+        </control>
+        <control controlID="C86EFF59-4493-481B-B47A-A4C99149F85E" controlTypeID="PopupPanelContent" x="195" y="0" w="180" h="97" zOrder="1">
+          <borderVisible>True</borderVisible>
+          <alias>content</alias>
+          <groupChildrenDescriptors>
+            <control controlID="AC46B6DA-8EB0-47C3-A5AA-4722053B98EC" controlTypeID="List" x="0" y="0" w="180" h="97" zOrder="0">
+              <color>4294108099</color>
+              <alias>menu</alias>
+              <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+                <link targetPageID="3BAD539F-A9AE-4DD9-B6F0-6540EB41638E" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%BF%94%E5%9B%9E%E5%85%A8%E7%9B%AE%E5%BD%95">
+                  <area shape="0" alt="" ID="{79C91BF8-088A-4FCF-BF48-2F938380FD52}" coords="(1,1,179,49)"/>
+                </link>
+                <link targetPageID="85871498-5675-4303-8528-7E5AC97CF3F8" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%BF%94%E5%9B%9E%E4%B8%BB%E8%A6%81%E4%BA%BA%E7%89%A9%E7%B4%A2%E5%BC%95">
+                  <area shape="0" alt="" ID="{E14DF13C-A4BE-4D9D-A7A8-DDE95E9B89BA}" coords="(1,49,179,97)"/>
+                </link>
+              </links>
+              <font family="%E4%BB%BF%E5%AE%8B" displayName="%E4%BB%BF%E5%AE%8B" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+              <text>%E8%BF%94%E5%9B%9E%E5%85%A8%E7%9B%AE%E5%BD%95%0D%0A%E8%BF%94%E5%9B%9E%E4%B8%BB%E8%A6%81%E4%BA%BA%E7%89%A9%E7%B4%A2%E5%BC%95</text>
+              <textSize>20</textSize>
+              <textAlign>HaCenter</textAlign>
+              <lineSpacing>0</lineSpacing>
+              <selectedColor>4290091377</selectedColor>
+              <itemHeight>48</itemHeight>
+              <showSeparator>True</showSeparator>
+              <selectedTextColor>4294108099</selectedTextColor>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

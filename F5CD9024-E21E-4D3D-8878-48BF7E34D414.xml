@@ -1,0 +1,76 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="EF210C06-06A2-483E-B981-9F5CFC1B50F5" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325">
+  <controls controlCount="7">
+    <control controlID="7BBC4528-3F17-48D7-9B64-A41F28F75E51" controlTypeID="Image" x="0" y="0" w="375" h="667" zOrder="0">
+      <URL>1F13E35966C60726EEE863DB4AB96058.jpg</URL>
+    </control>
+    <control controlID="19C536DF-8C14-4EDF-89E5-9E57C766E5D3" controlTypeID="Image" x="0" y="242" w="318" h="425" zOrder="1">
+      <URL>C42F268DA07AB6AE4ADD0982AB4E6F18.png</URL>
+    </control>
+    <control controlID="EBDC57A7-F598-47C4-8260-C9AB4E482D63" controlTypeID="TextArea" x="192" y="377" w="240" h="238" zOrder="2">
+      <font family="%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7" displayName="%E5%8D%8E%E6%96%87%E8%A1%8C%E6%A5%B7" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E8%B4%BE%0D%0A%E8%BF%8E%0D%0A%E6%98%A5</text>
+      <textSize>72</textSize>
+      <textAlign>HaCenter</textAlign>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="694935BB-1A23-4A02-9E1F-E4843F1CE07D" controlTypeID="Button" x="225" y="32" w="120" h="48" zOrder="3">
+      <color>4292584593</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E7%88%B6</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="DC7CCDBF-07DD-4B83-89F5-EF15CF54921B" controlTypeID="Button" x="225" y="90" w="120" h="48" zOrder="4">
+      <color>4292584593</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E5%AB%A1%E6%AF%8D</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="67B2C11A-021C-4DF3-890C-AE59DD7816B6" controlTypeID="Button" x="225" y="148" w="120" h="48" zOrder="5">
+      <color>4292584593</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E5%A4%AB</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+    <control controlID="602E95CC-DF2D-473D-9040-0F56C3A81755" controlTypeID="Button" x="225" y="206" w="120" h="48" zOrder="6">
+      <color>4292584593</color>
+      <borderColor>4290911259</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" displayName="%E6%96%B9%E6%AD%A3%E5%A7%9A%E4%BD%93" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E4%BB%86</text>
+      <textColor>4294967295</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>100</radius>
+      <radiusIsPercent>True</radiusIsPercent>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

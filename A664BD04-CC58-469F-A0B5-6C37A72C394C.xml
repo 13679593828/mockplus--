@@ -1,0 +1,75 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="A664BD04-CC58-469F-A0B5-6C37A72C394C" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="6">
+    <control controlID="81426CCE-9359-4AD5-A3EC-039EBBE55754" controlTypeID="Image" x="0" y="-10" w="375" h="677" zOrder="0">
+      <URL>7492F12B44A6E718B5F4D51C198CB037.jpg</URL>
+    </control>
+    <control controlID="EBA80800-C196-48C7-9EC0-37D1E9D65E04" controlTypeID="TextArea" x="37" y="239" w="120" h="438" zOrder="1">
+      <borderColor>4288217088</borderColor>
+      <font family="%E5%8D%8E%E6%96%87%E9%9A%B6%E4%B9%A6" displayName="%E5%8D%8E%E6%96%87%E9%9A%B6%E4%B9%A6_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E4%BA%BA%0D%0A%E7%89%A9%0D%0A%E5%85%B3%0D%0A%E7%B3%BB</text>
+      <textSize>72</textSize>
+      <textAlign>HaCenter</textAlign>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C22A4CA4-BCA9-4985-8BD0-263FDBFEBD35" controlTypeID="Label" x="192" y="620" w="173" h="37" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="85871498-5675-4303-8528-7E5AC97CF3F8" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A1%B5%E9%9D%A2">
+          <area shape="0" alt="" ID="{C54F4BB3-D03B-4594-83D8-A6220303E2AC}" coords="(0,0,173,37)"/>
+        </link>
+      </links>
+      <font family="%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B" displayName="%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B_%26_Bold+Italic" postScript="" weightStyle="Bold+Italic" weight="700" isBold="True" isItalic="True" useDefaultFontFamily="False"/>
+      <text>%E4%B8%BB%E8%A6%81%E4%BA%BA%E7%89%A9%E7%B4%A2%E5%BC%95</text>
+      <textSize>28</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsItalic,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="21682F67-C17B-4F2E-9619-D5DBDA42EBB1" controlTypeID="Label" x="274" y="552" w="91" h="37" zOrder="3">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="3BAD539F-A9AE-4DD9-B6F0-6540EB41638E" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%85%A8%E7%9B%AE%E5%BD%95">
+          <area shape="0" alt="" ID="{C54F4BB3-D03B-4594-83D8-A6220303E2AC}" coords="(0,0,91,37)"/>
+        </link>
+      </links>
+      <font family="%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B" displayName="%E5%8D%8E%E6%96%87%E4%BB%BF%E5%AE%8B_%26_Bold+Italic" postScript="" weightStyle="Bold+Italic" weight="700" isBold="True" isItalic="True" useDefaultFontFamily="False"/>
+      <text>%E5%85%A8%E7%9B%AE%E5%BD%95</text>
+      <textSize>28</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold,fsItalic,fsUnderline]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C5BC0A47-8734-43F9-A530-7482CAF58204" controlTypeID="Circle" x="334" y="5" w="30" h="27" zOrder="4">
+      <color>4287969593</color>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="D6931BCC-FD77-4621-B067-AA345A1786DD" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A1%B5%E9%9D%A21">
+          <area shape="0" alt="" ID="{771D0C08-C3C4-4FAC-BDD6-32D2C3DE2720}" coords="(0,0,30,27)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%3F</text>
+      <textColor>4294108099</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <shapeBorderType>SbEllipse</shapeBorderType>
+    </control>
+    <control controlID="E279F022-C2E0-455A-952F-587CA4B95B33" controlTypeID="TextArea" x="-26" y="537" w="240" h="66" zOrder="5">
+      <font family="%E9%9A%B6%E4%B9%A6" displayName="%E9%9A%B6%E4%B9%A6" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%EF%BC%88%E9%83%A8%E5%88%86%EF%BC%89</text>
+      <textSize>20</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
